@@ -12,3 +12,6 @@ Always remember to install the Nvidia drivers obviously
 
 # Viewing CAD files in Omniverse
 There is a function to convert .obj to .usd inside Create, which seems to be the most straight-forward
+
+# Viewing Paraview inside Omniverse
+Open a new Layout in Paraview and click on the Omniverse connector. Remember the path to which it is saved. Then inside Omniverse-Create, just browse to that path location and open the full scene.
