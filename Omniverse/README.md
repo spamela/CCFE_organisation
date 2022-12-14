@@ -10,3 +10,5 @@ sudo dpkg -i libssl1.0-dev_1.0.2n-1ubuntu5.10_amd64.deb <br/>
 
 Always remember to install the Nvidia drivers obviously
 
+# Viewing CAD files in Omniverse
+There is a function to convert .obj to .usd inside Create, which seems to be the most straight-forward
